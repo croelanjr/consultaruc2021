@@ -19,6 +19,11 @@ Debe Limpiar y compilar para descargar automaticamente todas las librerias neces
 ## Contribuyendo
 
 Las solicitudes de extracción son bienvenidas. Para cambios importantes, abra un problema primero para discutir qué le gustaría cambiar.
+Tener en cuenta para realizar algunos cambios. Deben Colaborar tus donaciones para continuar y mejorar el código fuente.
+
+Paypal : https://paypal.me/croelanjr
+Bitcoin : 3PPtK5UXzjfEouSjJcE9idXiY1aYVsYbpk
+Ethereum : 0x07c5ca2ec81119b21a1b62b5bf36635396225114
 
 Asegúrese de actualizar las pruebas según corresponda.
 
