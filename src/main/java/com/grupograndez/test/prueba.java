@@ -10,7 +10,7 @@ public class prueba {
 
         try {
             Consulta_Ruc bajando = new Consulta_Ruc();
-            bajando.setRuctxt("20512645098");
+            bajando.setRuctxt("20100122368");
             System.out.println("Consultando informacion de la SUNAT...");
             bajando.DownloadInformationTaxId();
             System.out.println("Obteniendo informacion en la Sunat ....");
